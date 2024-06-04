@@ -1,8 +1,9 @@
 ![MasterHead](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?t=st=1717502304~exp=1717505904~hmac=5c54ac44e2aa84d4ff9167be4076879a069720faa70b899fba9f708f3d21b51b&w=1060)
 <h1 align="center">Hi 👋, I'm Ravichandran R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" Width="400" src="https://camo.githubusercontent.com/1b49721d81f880339331b966069a5158238daed9648b5d179689c7d6c8a3b941/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d65636630356534377774637a6130666b7975316c776772646933676b3634353735347535637362646b63346366616563267269643d67697068792e6769662663743d67">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandran22&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandran22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandran22&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandran22" width="100%" height="365" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
