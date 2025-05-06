@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [[https://ravichandran22.github.io/Ravi-Portfolio/](https://ravichandran-r.vercel.app/)]
+- 👨‍💻 All of my projects are available at [[Portfolio](https://ravichandran-r.vercel.app/)]
 
 - 💬 Ask me about **Web Development**
 
